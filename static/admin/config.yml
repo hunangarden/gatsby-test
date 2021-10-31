@@ -25,13 +25,13 @@ collections:
           widget: "hidden",
           default: "blog-post",
         }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
-      - { label: "Featured Image", name: "featuredimage", widget: image }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Titlsd asd e", name: "title", widget: "string" }
+      - { label: "Publd asd aish Date", name: "date", widget: "datetime" }
+      - { label: "Desc asdriptasd asion", name: "description", widget: "text" }
+      - { label: "Featsad asdasd aured Post", name: "featuredpost", widget: "boolean" }
+      - { label: "Feasad tured Image", name: "featuredimage", widget: image }
+      - { label: "d  asy", name: "body", widget: "markdown" }
+      - { label: "Tagasd asd s", name: "tags", widget: "list" }
 
   - name: "pages"
     label: "Pages"
